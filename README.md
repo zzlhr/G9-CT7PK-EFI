@@ -1,0 +1,2 @@
+# G9-CT7PK-EFI
+G9-CT7PK 黑苹果EFI
